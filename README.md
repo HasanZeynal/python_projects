@@ -34,6 +34,6 @@ For each question, you will find both easy and hard solutions implemented in Pyt
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```bash
+   git clone https://github.com/hasanzeynal/Python-Projects.git
+   
 
